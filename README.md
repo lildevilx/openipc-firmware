@@ -14,8 +14,9 @@ Support Wyze and Xiaomi Fang Cams
     Press setup button and you should hear a Chinese voice prompt if successful.
 
 6. Reboot camera and reinsert SDcard after boot
-7. Run openipscan.sh and find the IP address of your new OpenIP Camera.
-8. Proceed to the status web page and apply the hacks. http://ipaddresshere/cgi-bin/status
+7. Repeat step 6
+8. Run openipscan.sh and find the IP address of your new OpenIP Camera. Note: MAC address will be changed to c0:6d:1a*
+9. Proceed to the status web page and apply the hacks. http://ipaddresshere/cgi-bin/status *NOTE: of you get a 404 error with a flashing blue led, Remove the sdcard and reinsert it. Shortly after thst the camera will go "click click" again. Proceed to the link now*
 
 Congratulations! Welcome to OpenIPC.
 
